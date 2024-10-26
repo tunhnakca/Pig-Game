@@ -8,4 +8,4 @@ Pig-Game is a simple, interactive dice game for two players, developed as part o
 - **Technologies Used**: HTML, CSS, JavaScript.
 
 This project was developed following a course by GitHub user jonasschmedtmann.
-Live Demo: https://pig-game-v2.netlify.app
+Website link: https://pig-game-v2.netlify.app
